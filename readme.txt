@@ -1,5 +1,5 @@
 === Woo Update Variations In Cart ===
-Contributors: (this should be a list of wordpress.org userid's)
+Contributors: roshniahuja14
 Donate link: https://about.me/roshniahuja
 Tags: woocommerce update variation on cart, woocommerce cart, woocommerce variation, woocommerce change variation, woocommerce
 Requires at least: 3.0.1
